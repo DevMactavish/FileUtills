@@ -1,0 +1,6 @@
+C:\Users\mert.talayoglu\source\repos\FileUtills\FileUtills\bin\Debug\FileUtills.dll
+C:\Users\mert.talayoglu\source\repos\FileUtills\FileUtills\bin\Debug\FileUtills.pdb
+C:\Users\mert.talayoglu\source\repos\FileUtills\FileUtills\obj\Debug\FileUtills.csproj.CoreCompileInputs.cache
+C:\Users\mert.talayoglu\source\repos\FileUtills\FileUtills\obj\Debug\FileUtills.dll
+C:\Users\mert.talayoglu\source\repos\FileUtills\FileUtills\obj\Debug\FileUtills.pdb
+C:\Users\mert.talayoglu\source\repos\FileUtills\FileUtills\obj\Debug\FileUtills.csprojAssemblyReference.cache
